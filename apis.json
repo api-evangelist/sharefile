@@ -1,0 +1,49 @@
+{
+    "name": "ShareFile",
+    "description": "Citrix ShareFile is the secure file sharing and transfer service that's built for business. Share files with clients and colleagues professionally. Try it Free!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1148-sharefile.jpg",
+    "tags": [
+        "files",
+        "have api",
+        "transfers"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sharefile\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ShareFile",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1148-sharefile.jpg",
+            "humanURL": "http:\/\/api.sharefile.com\/https.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sharefile-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/api.sharefile.com\/https.aspx"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sharefile"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@sharefile.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/sharefile"
+        }
+    ]
+}
